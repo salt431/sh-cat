@@ -6,7 +6,7 @@ chmod +x ./cat.sh
 
 then to use the file is simple:
 
-./cat.sh <file you wish to read.>
+./cat.sh <file_you_wish_to_read>
 
 example:
 
